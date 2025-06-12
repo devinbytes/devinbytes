@@ -1,16 +1,30 @@
-## Hi there 👋
+## Hey there, I’m Devin 🤙
 
-<!--
-**devinbytes/devinbytes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cyber security pro, software engineering student,  
+building stuff, breaking stuff, and learning *a lot* along the way.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I’m up to  
+- Crafting backend magic and exploring web design  
+- Solving puzzles on LeetCode because why not?  
+- Juggling school projects and passion projects — some serious, some just for fun  
+
+---
+
+### Wanna know more?  
+- 🔭 Building projects to flex my skills and grow my portfolio  
+- 🌱 Always picking up new tech and finding ways to level up  
+- 👯 Open to collabs that help bring ideas to life  
+- 🤔 Looking for tips on project planning, APIs, and backend design  
+
+---
+
+### Hit me up  
+- 📫 Email: [devinbytes@gmail.com]  
+- 🌐 Website: devinbytes.com *(coming soon 🚧)*
+
+---
+
+### Fun fact  
+I’m the “weird guy” who loves LeetCode and can’t stop thinking about the next idea to build. Too many ideas, not enough hours — but that’s the fun part.
